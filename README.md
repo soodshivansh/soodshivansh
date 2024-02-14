@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://dribbble.com/shots/2210681-hello-world" />
+Hey Shivansh! 💻 2nd-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 #TechEnthusiast #Innovation #TeamPlayer
 
 <!--
 **soodshivansh/soodshivansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
