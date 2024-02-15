@@ -1,5 +1,6 @@
-<img src="https://i.pinimg.com/736x/15/4d/ad/154dad4a2a8b52c02168b8752fcae493.jpg" alt="Hello world">
-
+<div class="center">
+<img src="https://i.pinimg.com/736x/15/4d/ad/154dad4a2a8b52c02168b8752fcae493.jpg" width="full" height="100px" alt="Hello world">
+</div>
 
 Hey Shivansh! 💻 2nd-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 
 #TechEnthusiast #Innovation #TeamPlayer
