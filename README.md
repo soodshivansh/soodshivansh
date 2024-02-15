@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://i.pinimg.com/736x/15/4d/ad/154dad4a2a8b52c02168b8752fcae493.jpg" alt="Hello world">
 
 
 Hey Shivansh! 💻 2nd-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 
