@@ -1,5 +1,7 @@
 
-![GitHub profile picture](https://i.pinimg.com/736x/15/4d/ad/154dad4a2a8b52c02168b8752fcae493.jpg)
+<p align="center">
+  <img src="https://github.com/soodshivansh/soodshivansh/blob/main/c4d80eb52378c788b2ce64150a3e591b%20(1)%20(1).png?raw=true" alt="Banner" width="100%">
+</p>
 
 Hey Shivansh! 💻 2nd-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 
 #TechEnthusiast #Innovation #TeamPlayer
