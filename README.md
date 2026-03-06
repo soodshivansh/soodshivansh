@@ -3,7 +3,7 @@
   <img src="https://github.com/soodshivansh/soodshivansh/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 </p>
 
-Hey Shivansh! 💻 2nd-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 
+Hey Shivansh! 💻 final-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 
 #TechEnthusiast #Innovation #TeamPlayer
 
 Skills: REACT / JS / HTML / CSS
