@@ -3,8 +3,11 @@
   <img src="https://github.com/soodshivansh/soodshivansh/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 </p>
 
-Hey Shivansh here! 💻 final-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 
-#TechEnthusiast #Innovation #TeamPlayer
+Hey, I'm Shivansh! 💻 A final-year CS student at Chitkara University, Punjab, and currently gaining real-world experience as an SDE Intern at Nielsen. 📊
+
+I'm a coding enthusiast 🚀 ready to dive into new tech, contribute, and innovate. I thrive in dynamic environments and am always looking for opportunities to build cool, impactful projects. Let’s connect and innovate together! 👨‍💻
+
+#TechEnthusiast #Innovation #TeamPlayer #ChitkaraUniversity
 
 ## 🧩 Expertise
 
