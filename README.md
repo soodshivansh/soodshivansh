@@ -6,10 +6,13 @@
 Hey Shivansh here! 💻 final-year CS student at Chitkara, Punjab. Coding enthusiast 🚀 Ready to dive into new tech, contribute, and innovate. Eager to gain real-world experience in a dynamic environment. Let's build cool projects together! 👨‍💻 
 #TechEnthusiast #Innovation #TeamPlayer
 
-Programming Languages & Frameworks: C#, Java, Python, TypeScript, JavaScript, C++, C, HTML, CSS, .NET, ReactJS, Node.js, NestJS, Express, Next.js
-Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOPS), Operating Systems, Database Management Systems (DBMS)
-Tools & Platforms: Git, GitLab, Docker, AWS, GCP, Jira, Postman, CI/CD, TDD, DDD, Linux, MySQL, PostgreSQL, MongoDB, Firebase, Kibana
-Soft Skills: Problem Solving, Teamwork, Technical Communication, Leadership, AI-Augmented Productivity, Adaptive AI Literacy.
+## 🧩 Expertise
+
+* **Languages & Frameworks:** `C#` `Java` `Python` `TypeScript` `JavaScript` `C++` `.NET` `React` `Node.js` `NestJS` `Next.js`
+* **Databases & Analytics:** `MySQL` `PostgreSQL` `MongoDB` `Firebase` `Kibana`
+* **Infrastructure & Tools:** `Git` `Docker` `AWS` `GCP` `Jira` `Postman` `CI/CD` `Linux`
+* **Methodologies:** `TDD` `DDD` `Object-Oriented Programming` `DSA`
+* **Human Skills:** Adaptive AI Literacy, Technical Communication, Leadership
 
 
 
